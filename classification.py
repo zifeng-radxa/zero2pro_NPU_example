@@ -19,7 +19,7 @@ import time
 
 import numpy as np
 from PIL import Image
-import tflite_runtime.interpreter as tflite
+import ai_edge_litert.interpreter as tflite
 
 
 def load_labels(filename):
